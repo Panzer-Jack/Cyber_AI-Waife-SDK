@@ -1,4 +1,4 @@
-# Cyber_AI-Waife-SDK
+# easy-live2d-ai
 赛博老婆随意链接 | 一个集成了 Web 端 Live2D 动画、LLM 智能对话与 VITS 语音合成的 通用SDK
 
 ## 开发进程
